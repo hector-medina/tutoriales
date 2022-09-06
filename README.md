@@ -11,7 +11,10 @@ Este es un listado de tutoriales que considero imprescindibles.
    * https://www.youtube.com/watch?v=FXpIoQ_rT_c&t=7215s
    * https://www.youtube.com/watch?v=Ls1WfzOrKkc&list=PLR8vUZDE6IeO_xCvdbfT1rtL4r4jc8ixm
    * https://www.youtube.com/watch?v=Yg5zkd9nm6w
-- Python: https://www.youtube.com/watch?v=rfscVS0vtbw /  https://www.youtube.com/watch?v=HGOBQPFzWKo / https://www.youtube.com/watch?v=8DvywoWv6fI
+- Python: 
+   * https://www.youtube.com/watch?v=rfscVS0vtbw
+   * https://www.youtube.com/watch?v=HGOBQPFzWKo
+   * https://www.youtube.com/watch?v=8DvywoWv6fI
 - Django: https://www.youtube.com/watch?v=jBzwzrDvZ18
 - Django-ninja: https://www.youtube.com/watch?v=nC2kQylku0w
 
