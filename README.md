@@ -15,7 +15,9 @@ Este es un listado de tutoriales que considero imprescindibles.
    * https://www.youtube.com/watch?v=rfscVS0vtbw
    * https://www.youtube.com/watch?v=HGOBQPFzWKo
    * https://www.youtube.com/watch?v=8DvywoWv6fI
-- Django: https://www.youtube.com/watch?v=jBzwzrDvZ18
+- Django: 
+   * https://www.youtube.com/watch?v=jBzwzrDvZ18
+   * https://www.youtube.com/watch?v=o0XbHvKxw7Y
 - Django-ninja: https://www.youtube.com/watch?v=nC2kQylku0w
 
 
