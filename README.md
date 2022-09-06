@@ -1,0 +1,21 @@
+# Tutoriales.
+
+Este es un listado de tutoriales que considero imprescindibles.
+
+## Desarrollo web.
+
+- HTML: https://www.youtube.com/watch?v=kUMe1FH4CHE
+- CSS: https://www.youtube.com/watch?v=1Rs2ND1ryYc / https://www.youtube.com/watch?v=ieTHC78giGQ 
+- JS: https://www.youtube.com/watch?v=jS4aFq5-91M 
+- VUE: https://www.youtube.com/watch?v=FXpIoQ_rT_c&t=7215s / https://www.youtube.com/watch?v=Ls1WfzOrKkc&list=PLR8vUZDE6IeO_xCvdbfT1rtL4r4jc8ixm
+ / https://www.youtube.com/watch?v=Yg5zkd9nm6w
+ - Python: https://www.youtube.com/watch?v=rfscVS0vtbw /  https://www.youtube.com/watch?v=HGOBQPFzWKo / https://www.youtube.com/watch?v=8DvywoWv6fI
+ - Django: https://www.youtube.com/watch?v=jBzwzrDvZ18
+ - Django-ninja: https://www.youtube.com/watch?v=nC2kQylku0w
+
+
+## Desarrollo móvil.
+
+- FLUTTER: https://www.youtube.com/watch?v=VPvVD8t02U8
+
+## Infraestructura.
