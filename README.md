@@ -8,7 +8,7 @@ Este es un listado de tutoriales que considero imprescindibles.
     * https://www.youtube.com/watch?v=kUMe1FH4CHE
     * GitHub repo: https://github.com/gitdagray/html_course
     * Semantic tags: https://developer.mozilla.org/en-US/docs/Web/HTML/Element 
-- CSS: https://www.youtube.com/watch?v=1Rs2ND1ryYc / https://www.youtube.com/watch?v=ieTHC78giGQ 
+- CSS: https://www.youtube.com/watch?v=1Rs2ND1ryYc / https://www.youtube.com/watch?v=ieTHC78giGQ / https://www.youtube.com/watch?v=n4R2E7O-Ngo
 - JS: https://www.youtube.com/watch?v=jS4aFq5-91M 
 - Vue: 
    * https://www.youtube.com/watch?v=FXpIoQ_rT_c&t=7215s
