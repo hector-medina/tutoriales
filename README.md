@@ -4,7 +4,10 @@ Este es un listado de tutoriales que considero imprescindibles.
 
 ## Desarrollo web.
 
-- HTML: https://www.youtube.com/watch?v=kUMe1FH4CHE
+- HTML: 
+    * https://www.youtube.com/watch?v=kUMe1FH4CHE
+    * GitHub repo: https://github.com/gitdagray/html_course
+    * Semantic tags: https://developer.mozilla.org/en-US/docs/Web/HTML/Element 
 - CSS: https://www.youtube.com/watch?v=1Rs2ND1ryYc / https://www.youtube.com/watch?v=ieTHC78giGQ 
 - JS: https://www.youtube.com/watch?v=jS4aFq5-91M 
 - Vue: 
