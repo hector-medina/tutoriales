@@ -11,13 +11,14 @@ Este es un listado de tutoriales que considero imprescindibles.
 - CSS: https://www.youtube.com/watch?v=1Rs2ND1ryYc / https://www.youtube.com/watch?v=ieTHC78giGQ / https://www.youtube.com/watch?v=n4R2E7O-Ngo
 - JS: https://www.youtube.com/watch?v=jS4aFq5-91M 
 - Vue: 
-   * https://www.youtube.com/watch?v=FXpIoQ_rT_c&t=7215s
+   * https://www.youtube.com/watch?v=FXpIoQ_rT_c
    * https://www.youtube.com/watch?v=Ls1WfzOrKkc&list=PLR8vUZDE6IeO_xCvdbfT1rtL4r4jc8ixm
    * https://www.youtube.com/watch?v=Yg5zkd9nm6w
 - Python: 
    * https://www.youtube.com/watch?v=rfscVS0vtbw
    * https://www.youtube.com/watch?v=HGOBQPFzWKo
    * https://www.youtube.com/watch?v=8DvywoWv6fI
+   * https://www.youtube.com/watch?v=pkYVOmU3MgA
 - Django: 
    * https://www.youtube.com/watch?v=jBzwzrDvZ18
    * https://www.youtube.com/watch?v=o0XbHvKxw7Y
